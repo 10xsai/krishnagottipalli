@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://krishnagottipalli.github.io/portfolio/)
+[![MasterHead](api_gif.gif)](https://krishnagottipalli.github.io/portfolio/)
 
 <h1 align="center">Hi 👋, I'm Sai Krishna</h1>
 <h3 align="center">Full Stack Developer & Passionate Programming Instructor</h3>
